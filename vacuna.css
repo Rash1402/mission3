@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d3d3d3;
+    font-size: 1.2rem;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.titulo{
+    font-size: xx-large;
+    color: blue;
+}
+
+.header{
+    background: #f1f1f1;
+}
+
+.header a{ 
+    color: #d3d3d3;
+    text-decoration: none;
+}
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.navegacion ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navegacion ul li{
+display: inline-block;
+}
+.navegacion ul li a{
+display: block;
+padding: 0.5rem 1rem;
+}
+
+.headerlogo{
+color: blue;
+
+}
